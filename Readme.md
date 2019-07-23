@@ -34,7 +34,10 @@ Services worth checking out for us:
 ### Learnings
 
 - https://aws.amazon.com/blogs/machine-learning/build-a-social-media-dashboard-using-machine-learning-and-bi-services/
-- cf BlazingText https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html & https://github.com/awslabs/amazon-sagemaker-examples/tree/master/introduction_to_amazon_algorithms/blazingtext_text_classification_dbpedia
+- cf BlazingText https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
+  - unsupervised pretrained https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/blazingtext_hosting_pretrained_fasttext/blazingtext_hosting_pretrained_fasttext.ipynb
+  - unsupervised trained from scratch
+  - supervised 10 classes https://github.com/awslabs/amazon-sagemaker-examples/tree/master/introduction_to_amazon_algorithms/blazingtext_text_classification_dbpedia
 
 ## Lab 1: Lex + Lambda
 
