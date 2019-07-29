@@ -23,13 +23,13 @@ There are 3 tiers of AI related services in AWS
 
 Services worth checking out for us:
 
-- Rekognition https://aws.amazon.com/rekognition/:
-  Activity recognition, person tracking and celebrity recognition
-- Transcribe https://aws.amazon.com/transcribe/
-- Comprehend https://aws.amazon.com/comprehend/
-  Feed data from S3 and get Entities
-- Forecast https://aws.amazon.com/forecast/
-- Personalize https://aws.amazon.com/personalize/
+| Service                                         	| (Initial) Interest 	| Remark                                                                                                	|
+|-------------------------------------------------	|--------------------	|-------------------------------------------------------------------------------------------------------	|
+| Comprehend https://aws.amazon.com/comprehend/   	| +++ -> -           	| Compared to our internal NLP APIs built 2 months ago, nothing that can help us further                	|
+| Personalize https://aws.amazon.com/personalize/ 	| ++                 	| To check out and see how quickly a PoC can be built                                                   	|
+| Forecast https://aws.amazon.com/forecast/       	| ++                 	| To be compared to our internal forecasting API built 9 months ago                                     	|
+| Rekognition https://aws.amazon.com/rekognition/ 	| +                  	| How could a computer vision pipeline for image search look like? eg: Christiano Ronaldo + Pissed      	|
+| Transcribe https://aws.amazon.com/transcribe/   	| +                  	| How far are we from good results for translating our english and german news in brazilian portuguese? 	|
 
 ### Learnings
 
